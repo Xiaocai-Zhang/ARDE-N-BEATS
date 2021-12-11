@@ -7,8 +7,12 @@ source env/bin/activate
 cd env
 pip3 install -r requirements.txt
 ```
-## download data sets
-
+## Download data sets
+```
+cd arde_n_beats
+gdown https://drive.google.com/uc?id=1orQYfoFxCz9sxG7WIjBLXHlTm8-7xhdh
+unzip data
+```
 ## Running Models
 You can run the following commands to replicate the results.
 ```
