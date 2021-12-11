@@ -7,7 +7,7 @@ source env/bin/activate
 cd env
 pip3 install -r requirements.txt
 ```
-## Download data sets
+## Download Data Sets
 ```
 cd arde_n_beats
 gdown https://drive.google.com/uc?id=1orQYfoFxCz9sxG7WIjBLXHlTm8-7xhdh
