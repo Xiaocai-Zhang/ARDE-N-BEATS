@@ -19,7 +19,7 @@ Run the following commands to get the trained models.
 gdown https://drive.google.com/uc?id=1dWD-9tkUYAbmfS_wFSawc_6oJ7rV4IKa
 unzip save
 ```
-Then, you can run the following commands to replicate the results.
+Then, you can run the following command to replicate the results.
 ```
 python3 test/XXXX/test_XXm.py
 ```
@@ -28,3 +28,8 @@ For example, for the I280-S 15-min prediction task, run
 python3 test/I280-S/test_15m.py
 ```
 The results are saved under the "./hypara/" folder.
+## Training Models
+You can run the following command to train models.
+```
+python3 train/XXXX/train_XXm.py
+```
