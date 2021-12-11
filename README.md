@@ -14,10 +14,13 @@ gdown https://drive.google.com/uc?id=1orQYfoFxCz9sxG7WIjBLXHlTm8-7xhdh
 unzip data
 ```
 ## Running Models
-You can run the following commands to replicate the results.
+Run the following commands to get the trained models.
 ```
-python3 script/test_m50.py
-python3 script/test_i280.py
-python3 script/test_nyc.py
+gdown https://drive.google.com/uc?id=1dWD-9tkUYAbmfS_wFSawc_6oJ7rV4IKa
+unzip save
 ```
-The results are saved under the "./para/" folder.
+Then, you can run the following commands to replicate the results.
+```
+python3 test/XXXX/test_XXm.py
+```
+The results are saved under the "./hypara/" folder.
