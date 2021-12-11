@@ -8,6 +8,7 @@ cd env
 pip3 install -r requirements.txt
 ```
 ## Download Data Sets
+Run the following commands to download data sets from cloud.
 ```
 cd arde_n_beats
 gdown https://drive.google.com/uc?id=1orQYfoFxCz9sxG7WIjBLXHlTm8-7xhdh
