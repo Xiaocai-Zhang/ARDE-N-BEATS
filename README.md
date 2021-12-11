@@ -15,7 +15,7 @@ gdown https://drive.google.com/uc?id=1orQYfoFxCz9sxG7WIjBLXHlTm8-7xhdh
 unzip data
 ```
 ## Running Models
-Run the following commands to get the trained models.
+Firstly, run the following codes to download the trained models.
 ```
 gdown https://drive.google.com/uc?id=1dWD-9tkUYAbmfS_wFSawc_6oJ7rV4IKa
 unzip save
