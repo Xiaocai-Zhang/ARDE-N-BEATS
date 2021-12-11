@@ -23,7 +23,7 @@ Then, you can run the following commands to replicate the results.
 ```
 python3 test/XXXX/test_XXm.py
 ```
-For example, for I280-S 15-min prediction task, run
+For example, for the I280-S 15-min prediction task, run
 ```
 python3 test/I280-S/test_15m.py
 ```
