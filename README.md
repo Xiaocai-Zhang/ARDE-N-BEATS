@@ -33,3 +33,7 @@ You can run the following command to train models.
 ```
 python3 train/XXXX/train_XXm.py
 ```
+For example, for training the 60-min prediction model on M50-N data set, run command
+```
+python3 train/M50-N/train_60m.py
+```
